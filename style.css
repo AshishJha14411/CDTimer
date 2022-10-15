@@ -1,0 +1,30 @@
+body{
+    background-color: gray;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+.main{
+    background-color: rgb(93, 113, 109);
+    padding: 2rem;
+    margin: 2rem;
+    min-width: 50%;
+    min-height: 60%;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+button{
+    width: 10rem;
+    height: 3rem;
+    background-color: rgba(4, 126, 142, 0.336);
+    border: none;
+    box-shadow: 3px 3px 17px turquoise;
+    cursor: pointer;
+    font-size: 1.5rem;
+}
+.output{
+    font-size: 3rem;
+    font-weight: bolder;
+}
