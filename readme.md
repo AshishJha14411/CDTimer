@@ -11,7 +11,7 @@ This is a simple project made as a count down timer. User has to enter the start
 - SetInterval
 
 
-[Live Demo](https://randomquotegen-akj.netlify.app/)
+[Live Demo](https://countdowntimer-akj.netlify.app/)
 
 ### SnapShot of the program
 
